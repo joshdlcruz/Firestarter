@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "cloud-function-49f02": {
+      "hosting": {
+        "firestarter": [
+          "cloud-function-49f02"
+        ]
+      }
+    }
+  }
+}
