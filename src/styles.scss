@@ -45,7 +45,7 @@ $custom-orange: (
     )
 );
 $firestarter-primary: mat-palette($custom-orange);
-$firestarter-accent: mat-palette($mat-pink, A200, A100, A400);
+$firestarter-accent: mat-palette($mat-green, A200, A100, A400);
 
 // The warn palette is optional (defaults to red).
 $firestarter-warn: mat-palette($mat-red);
